@@ -1,0 +1,12 @@
+flask
+pandas
+openpyxl
+flask-sqlalchemy
+flask-marshmallow
+marshmallow-sqlalchemy
+marshmallow
+psycopg2-binary==2.8.6
+sqlalchemy
+flask_restplus
+Werkzeug==0.16.1
+python-dotenv
